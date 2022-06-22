@@ -12,10 +12,12 @@ So, overall just in ways that I have mentioned this module could be used for dif
 
 # How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
 Luckily I was provided the types of animal breeds that Grazioso Salvare requested for specific type of rescue situations, so changing up my database queries for the dashboard simply involved applying this provided knowledge to which types of animals I should be filtering on. If i was doing this for other purposes I could modify the filters to suit the needs of a different purpose based on what I knew I needed to look for.
+
 To answer this question fully, I simply looked and thought about what it was I needed to achieve, and thought about how I might do it. The hardest part wasn't knowing what to filter, but how to do it. This required more research on the inner workings of the Dash framework and HTML components, which is something that was new to me. As with other assignments and courses I usually need to research and learn how to preform tasks using the code in whatever language or system I am working on.
 
 
 # What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
 Computer Scientists can make applications or programs to help do certain taks automatically or with more ease. Having a set up dashboard and data table of animals this company wished to find made it easier to scour a large database with 1000 entries to find only a select few. Pouring through the CSV file manually could take time, and even then you may not truly understand what it is you are looking at. However, using this dashboard that is set up correctly it can easily display the information with the click of a button in an easy to read and understand format.
+
 On top of this computer scientists could continue to expand this dashboard to show even more information than what I have done, this project could be improved and enhacnced to bring more use and benefit to the recipient, whereas my current project is just barebones and simple.
 With time I could easly improve it and have something truly quite useful than the basic one that it is today.
